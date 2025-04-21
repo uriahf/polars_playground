@@ -8,3 +8,4 @@ wheels/
 
 # Virtual environments
 .venv
+data/202403-citibike-tripdata.csv
